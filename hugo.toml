@@ -1,0 +1,15 @@
+baseURL = 'https://pgpg.xyz/'
+languageCode = 'en-us'
+title = 'pgpg.xyz'
+theme = 'archie'
+
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/pgebheim"
+
+[[params.social]]
+name = "X"
+icon = "x"
+url = "https://twitter.com/paulgebheim"
