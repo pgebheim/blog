@@ -1,4 +1,4 @@
-baseURL = 'https://pgpg.xyz/'
+baseURL = 'https://pgebheim.github.io/blog'
 languageCode = 'en-us'
 title = 'pgpg.xyz'
 theme = 'archie'
