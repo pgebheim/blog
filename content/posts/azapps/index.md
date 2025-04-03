@@ -141,6 +141,6 @@ As the ecosystem evolves, \[A-Z\]apps will become even more powerful and accessi
 In conclusion, the \[A-Z\]app paradigm represents an exciting evolution in building decentralized applications. By rethinking the stack with user experience as a first-class citizen and leveraging the latest in trustless technology, it offers a path to break the compromise between UX and security. Developers can deliver apps that feel as slick as modern web2 apps, while users gain the assurance that **“don’t trust, verify”** is always in effect behind the scenes. As the framework matures, we may well see an explosion of innovative \[A-Z\]apps that bring Web3 to the masses in a truly seamless way. The journey is just beginning, and it points toward a future where *every* app, from A to Z, can be trustless by design – without anyone even noticing the magic that makes it possible.
 
 ## Acknowledgements
-Thanks to Brian Seong (@BrianSeong99) for the hard work composing this post, along with countless hours talking to Brendan Farmer (@\_bpfarmer) and David Silverman (@davidesilverman) and tons of other people at Polygon.
+Thanks to Brian Seong ([@BrianSeong99](https://x.com/brianseong99)) for the hard work composing this post, along with countless hours talking to Brendan Farmer ([@\_bpfarmer](https://x.com/_bpfarmer)) and David Silverman ([@davidesilverman](https://x.com/davidsilverman)) and tons of other people at Polygon.
 
-See Brian's version of this post on [his blog](https://brianseong.ghost.io/azapps).
+See Brian's version of this post on [his blog](https://brian-seong.ghost.io/azapp/).
