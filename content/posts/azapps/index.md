@@ -1,7 +1,7 @@
 ---
 title: "The [A-Z]app Paradigm: Trustless Apps with Web2 UX and Web3 Verifiability"
 description: "[A-Z]apps are a new paradigm designed to solve this: apps that feel like Web2 but behave like Web3 under the hood."
-date: 2025-02-26
+date: 2025-04-02
 draft: false
 tags: agglayer,zapps
 ---
